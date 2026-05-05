@@ -1,0 +1,14 @@
+[
+    {
+        "date": "2025-05-24",
+        "temperature": 29.0,
+        "description": "жаркая погодка",
+        "precipitation": false
+    },
+    {
+        "date": "2026-05-24",
+        "temperature": 25.0,
+        "description": "погодка",
+        "precipitation": false
+    }
+]
